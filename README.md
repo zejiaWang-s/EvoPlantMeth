@@ -9,7 +9,7 @@ The code is organized into a modular structure to separate core model definition
 
 
 # Installation
-To ensure full reproducibility and avoid package conflicts, please create the specific Conda environment provided in this repository.
+To ensure full reproducibility and avoid package conflicts, please create the specific Conda environment provided in this repository. Typical installation time is approximately 20 minutes on a standard desktop computer, although the exact time may vary depending on network speed and system configuration.
 
 ## Create the environment from the provided yaml file
 ```bash
